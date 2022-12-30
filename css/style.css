@@ -1,0 +1,22 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    /*background-color: white;*/
+    border-style: none; /*comment out entire border style*/
+    border-top-style: dotted; /*only keep the top border*/
+    height: 0px; /*when height is 0, it will only display border
+    if the height is 0, it display the border as the border has default height*/
+    width: 10%;
+    border-color: gray;
+    border-width: 5px;
+}
+
+h3{
+    color: #439A97;
+}
+
+h1{
+    color: #439A97;
+}
